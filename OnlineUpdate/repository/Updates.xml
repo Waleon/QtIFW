@@ -1,0 +1,18 @@
+<Updates>
+ <ApplicationName>{AnyApplication}</ApplicationName>
+ <ApplicationVersion>1.0.0</ApplicationVersion>
+ <Checksum>true</Checksum>
+ <PackageUpdate>
+  <Name>com.waleon.ifw</Name>
+  <DisplayName>MyApp</DisplayName>
+  <Description>The first ifw installer.</Description>
+  <Version>2.0.0-1</Version>
+  <ReleaseDate>2019-10-12</ReleaseDate>
+  <Default>true</Default>
+  <Script>installscript.qs</Script>
+  <UpdateFile CompressedSize="28255641" UncompressedSize="127110207" OS="Any"/>
+  <DownloadableArchives>bin.7z,doc.7z,etc.7z,license.7z,script.7z</DownloadableArchives>
+  <UserInterfaces>targetwidget.ui</UserInterfaces>
+  <SHA1>083704b33349cb193ecfd15db3ea046db916149b</SHA1>
+ </PackageUpdate>
+</Updates>
