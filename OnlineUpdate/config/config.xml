@@ -8,7 +8,7 @@
     <TargetDir>@ApplicationsDir@/MyApp</TargetDir>
     <RemoteRepositories>
         <Repository>
-            <Url>https://raw.githubusercontent.com/Waleon/QtIFW/master/OnlineUpdate/repository/Updates.xml</Url>
+            <Url>https://raw.githubusercontent.com/Waleon/QtIFW/master/OnlineUpdate/repository</Url>
             <Enabled>1</Enabled>
             <Username>550755606@qq.com</Username>
             <Password>waleon.19890820</Password>
