@@ -6,4 +6,13 @@
     <Publisher>Waleon</Publisher>
     <StartMenuDir>IFW Examples</StartMenuDir>
     <TargetDir>@ApplicationsDir@/MyApp</TargetDir>
+    <RemoteRepositories>
+        <Repository>
+            <Url>https://raw.githubusercontent.com/Waleon/QtIFW/master/OnlineUpdate/repository</Url>
+            <Enabled>1</Enabled>
+            <Username>user</Username>
+            <Password>password</Password>
+            <DisplayName>Example repository</DisplayName>
+        </Repository>
+    </RemoteRepositories>
 </Installer>
