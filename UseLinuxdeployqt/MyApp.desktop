@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=MyApp
+Exec=MyApp
+Icon=logo
+Comment=This is a simple program
+Terminal=false
+Categories=Development;
